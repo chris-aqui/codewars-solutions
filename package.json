@@ -1,0 +1,23 @@
+{
+  "name": "codewars-solutions",
+  "version": "1.0.0",
+  "description": "CodeWars & Coderbyte & Leetcode - Solutions",
+  "main": "LongestWord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christine-aqui/codewars-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christine-aqui/codewars-solutions/issues"
+  },
+  "homepage": "https://github.com/christine-aqui/codewars-solutions#readme",
+  "dependencies": {
+    "performance-now": "^2.1.0"
+  }
+}

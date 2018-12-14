@@ -1,4 +1,3 @@
 # codewars-solutions
-CodeWars & Coderbyte - Solutions
+CodeWars & Coderbyte & Leetcode - Solutions
 
-To develop algorithmic thinking
